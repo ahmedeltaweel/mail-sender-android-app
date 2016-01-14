@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mailer</string>
+    <string name="email">E-mail</string>
+    <string name="email_hint">Your E-mail Address</string>
+    <string name="button_submit">Send</string>
+
+</resources>
